@@ -1,0 +1,8 @@
+{
+  "name": "alloy-screenshots",
+  "private": true,
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "puppeteer": "^1.2.0"
+  }
+}
