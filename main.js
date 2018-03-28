@@ -46,7 +46,7 @@ function startGenerating() {
 
   // urls = ['http://studioalloy.nl']; // ⚠️ For testing purposes only
 
-  console.log('🤓  Going to genarte ' + urls.length * devices.length + 'images.');
+  console.log('🤓  Going to generate ' + urls.length * devices.length + 'images.');
 
   (async () => {
     let screenshotDirectory = './screenshots/';

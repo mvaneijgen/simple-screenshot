@@ -1,6 +1,6 @@
 # screenshot-generator
 
-Generate screenshots on multiple device widths from a site_map.xml file (tested with a Yoast sitemap)
+Generate screenshots of a website from a url
 
 ## Instalation
 
